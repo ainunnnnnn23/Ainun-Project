@@ -125,7 +125,7 @@
         <mxCell id="f21v2UU1LU6aCkuE69LF-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="f21v2UU1LU6aCkuE69LF-35" target="H6dS6gvr-uraTL1qiHeq-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="f21v2UU1LU6aCkuE69LF-35" value="&amp;nbsp;Mendapatkan&amp;nbsp;&lt;div&gt;Diskon =&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;25%&lt;/span&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="f21v2UU1LU6aCkuE69LF-35" value="T idak mendapatkan&amp;nbsp;&lt;div&gt;Diskon&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="440" y="250" width="196" height="80" as="geometry" />
         </mxCell>
         <mxCell id="f21v2UU1LU6aCkuE69LF-43" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;End&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">

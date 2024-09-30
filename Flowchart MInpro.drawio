@@ -4,11 +4,17 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="gIv6dCVdmgl8j4xr0JMW-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gIv6dCVdmgl8j4xr0JMW-0" target="gIv6dCVdmgl8j4xr0JMW-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="gIv6dCVdmgl8j4xr0JMW-0" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Start&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="364" y="50" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gIv6dCVdmgl8j4xr0JMW-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Flowchart Mini Project&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="324" y="8" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gIv6dCVdmgl8j4xr0JMW-3" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Masukkan Nama,&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;NIM&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;dan Kelas&lt;/span&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="321" y="160" width="186" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
